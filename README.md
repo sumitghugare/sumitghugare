@@ -1,104 +1,93 @@
-<h1 align="center">Hi 👋, I'm Sumit Ghugare</h1>
-<h3 align="center">AI Engineer | Generative AI | Machine Learning | RAG Systems</h3>
-
-
+👋 Hi there! I'm Sumit Ghugare  
+🚀 AI Engineer | Generative AI | RAG Systems | Machine Learning
 
 ---
 
-## 👨‍💻 Professional Summary
+🧠 About Me
 
-🎓 Final-year B.Tech student in **Artificial Intelligence & Machine Learning**  
-🤖 AI Intern working on **RAG-based intelligent systems & automation workflows**  
-📊 Strong foundation in **Python, SQL, Power BI & End-to-End ML Pipelines**  
-🚀 Passionate about building real-world AI-powered applications  
-
----
-
-## 💼 Internship Experience
-
-### 🏢 AI Intern – AI India Innovations, Pune (Aug 2025 – Present)
-
-- Developing ML & Generative AI solutions using Python  
-- Designing **RAG (Retrieval-Augmented Generation)** systems using LangChain  
-- Building AI automation workflows using **n8n**  
-- Integrating APIs & handling structured/unstructured data  
-- Working on production-oriented AI systems  
+🎓 Final-year B.Tech student in Artificial Intelligence & Machine Learning  
+🤖 Currently working as an AI Intern building RAG-based intelligent systems  
+📊 Strong foundation in Python, SQL, Power BI & ML pipelines  
+🧩 Experienced in integrating APIs & building automation workflows (n8n)  
+🔬 Passionate about Generative AI, LLMs & real-world AI applications  
+🌱 Continuously learning system design, model optimization & AI deployment  
+🤝 Open to collaborating on AI / ML / GenAI projects  
 
 ---
 
-## 🚀 Featured Projects
+🛠️ Tech Stack
 
-### 🏥 AI-Powered Hospital Assistant
-- Clinical note processing & heart disease risk prediction  
-- Integrated Whisper (Speech-to-Text)  
-- LLM-based medical summarization  
-- Automated PDF reporting  
+💻 Programming  
+Python SQL  
 
-### 🤖 RAG-Based Intelligent Application
-- Context-aware question answering system  
-- Document retrieval + LLM integration  
-- Improved accuracy using external knowledge grounding  
+🤖 AI / Machine Learning  
+Regression Classification Clustering Model Evaluation  
+RAG (Retrieval-Augmented Generation)  
+Prompt Engineering  
+LLM Integration  
 
-### 🌿 Tomato Plant Disease Detection
-- ML-based image classification system  
-- Applied preprocessing & supervised learning  
-- Built complete prediction pipeline  
+⚙ Frameworks & Tools  
+LangChain Flask n8n  
 
----
+📊 Data & Analytics  
+Power BI Excel  
 
-## 🛠 Tech Stack
+📚 Libraries  
+NumPy Pandas Matplotlib Seaborn  
 
-### 👨‍💻 Programming
-`Python`
-
-### 🤖 AI / ML
-`Regression` `Classification` `Clustering`  
-`Model Evaluation` `RAG` `Prompt Engineering`  
-`LLM Integration`
-
-### ⚙ Frameworks & Tools
-`LangChain` `Flask` `n8n`
-
-### 📊 Data & Analytics
-`SQL` `Power BI` `Excel`
-
-### 📚 Libraries
-`NumPy` `Pandas` `Matplotlib` `Seaborn`
-
-### 🔧 Version Control
-`Git`
+🔧 Version Control  
+Git GitHub  
 
 ---
 
-## 📈 GitHub Stats
+🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitghugare&show_icons=true&theme=tokyonight" />
-</p>
+🔹 AI-Powered Hospital Assistant  
+Tech: Python, LLMs, Whisper, ML  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitghugare&layout=compact&theme=tokyonight" />
-</p>
+• Clinical note processing & heart disease risk prediction  
+• Integrated Speech-to-Text using Whisper  
+• LLM-based medical summarization  
+• Automated PDF report generation  
+
+🔹 RAG-Based Intelligent Application  
+Tech: LangChain, LLMs  
+
+• Built contextual Q&A system using document retrieval  
+• Improved response accuracy by grounding outputs in knowledge base  
+• Integrated LLM with structured & unstructured data  
+
+🔹 Tomato Plant Disease Detection System  
+Tech: Python, ML, Image Processing  
+
+• Built image classification model for disease detection  
+• Applied preprocessing & supervised learning techniques  
+• Developed end-to-end ML pipeline  
 
 ---
 
-## 🎯 Career Objective
+📈 GitHub Stats
 
-Seeking entry-level opportunities in:
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitghugare&show_icons=true&theme=tokyonight)
 
-- Artificial Intelligence  
-- Machine Learning  
-- Generative AI  
-- Data Engineering  
-- Data Analytics  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitghugare&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
+🎯 Career Focus
 
-📧 Email: ghugaresumit0@gmail.com  
-📱 Phone: 7020818681  
-💼 LinkedIn: https://www.linkedin.com/in/sumit-ghugare-283b49247
+Artificial Intelligence  
+Machine Learning  
+Generative AI  
+Data Engineering  
+Data Analytics  
+
 ---
 
-⭐ *"Building Intelligent Systems That Solve Real Problems"*
+📫 Let’s Connect
+
+💼 LinkedIn: www.linkedin.com/in/sumit-ghugare-283b49247)  
+📧 ghugaresumit0@gmail.com  
+📱 7020818681  
+
+⭐ If you like my work, feel free to star a repo or connect!
