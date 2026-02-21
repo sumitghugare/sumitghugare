@@ -98,8 +98,8 @@ Seeking entry-level opportunities in:
 
 📧 Email: ghugaresumit0@gmail.com  
 📱 Phone: 7020818681  
-💼 LinkedIn: (Add your LinkedIn link here)
-
+💼 LinkedIn: [(Add your LinkedIn link here)
+](https://www.linkedin.com/in/sumit-ghugare-283b49247)
 ---
 
 ⭐ *"Building Intelligent Systems That Solve Real Problems"*
