@@ -1,80 +1,65 @@
-👋 Hi there! I'm Sumit Ghugare  
-🚀 AI Engineer | Generative AI | RAG Systems | Machine Learning
+Hi 👋, I'm Sumit Ghugare  
+AI Engineer | Generative AI | Machine Learning | RAG Systems  
 
----
+------------------------------------------------------------  
 
-🧠 About Me
+🧠 ABOUT ME  
 
-🎓 Final-year B.Tech student in Artificial Intelligence & Machine Learning  
-🤖 Currently working as an AI Intern building RAG-based intelligent systems  
-📊 Strong foundation in Python, SQL, Power BI & ML pipelines  
-🧩 Experienced in integrating APIs & building automation workflows (n8n)  
-🔬 Passionate about Generative AI, LLMs & real-world AI applications  
-🌱 Continuously learning system design, model optimization & AI deployment  
-🤝 Open to collaborating on AI / ML / GenAI projects  
+• 🎓 Final-year B.Tech student in Artificial Intelligence & Machine Learning  
+• 🤖 Currently working as an AI Intern building RAG-based intelligent systems  
+• 🐍 Strong foundation in Python, SQL, and ML pipelines  
+• 🔄 Experience integrating APIs and building automation workflows (n8n)  
+• 🚀 Passionate about Generative AI and real-world AI applications  
+• 🤝 Open to collaborating on AI / ML / GenAI projects  
 
----
+------------------------------------------------------------  
 
-🛠️ Tech Stack
+🛠 TECH STACK  
 
-💻 Programming  
-Python SQL  
+💻 Programming:  
+Python, SQL  
 
-🤖 AI / Machine Learning  
-Regression Classification Clustering Model Evaluation  
-RAG (Retrieval-Augmented Generation)  
-Prompt Engineering  
-LLM Integration  
+📊 Machine Learning:  
+Regression, Classification, Clustering, Model Evaluation  
 
-⚙ Frameworks & Tools  
-LangChain Flask n8n  
+🤖 Generative AI:  
+RAG (Retrieval-Augmented Generation), Prompt Engineering, LLM Integration  
 
-📊 Data & Analytics  
-Power BI Excel  
+⚙ Frameworks & Tools:  
+LangChain, Flask, n8n  
 
-📚 Libraries  
-NumPy Pandas Matplotlib Seaborn  
+📈 Data & Analytics:  
+Power BI, Excel  
 
-🔧 Version Control  
-Git GitHub  
+📚 Libraries:  
+NumPy, Pandas, Matplotlib, Seaborn  
 
----
+🔧 Version Control:  
+Git, GitHub  
 
-🚀 Featured Projects
+------------------------------------------------------------  
 
-🔹 AI-Powered Hospital Assistant  
-Tech: Python, LLMs, Whisper, ML  
+🚀 FEATURED PROJECTS  
 
-• Clinical note processing & heart disease risk prediction  
-• Integrated Speech-to-Text using Whisper  
+🏥 AI-Powered Hospital Assistant  
+• Clinical note processing and heart disease risk prediction  
+• Integrated speech-to-text using Whisper  
 • LLM-based medical summarization  
 • Automated PDF report generation  
 
-🔹 RAG-Based Intelligent Application  
-Tech: LangChain, LLMs  
+🤖 RAG-Based Intelligent Application  
+• Built contextual question-answering system  
+• Integrated document retrieval with LLMs  
+• Improved response accuracy using knowledge grounding  
 
-• Built contextual Q&A system using document retrieval  
-• Improved response accuracy by grounding outputs in knowledge base  
-• Integrated LLM with structured & unstructured data  
+🌿 Tomato Plant Disease Detection System  
+• Built ML-based image classification model  
+• Applied preprocessing and supervised learning  
+• Developed end-to-end prediction pipeline  
 
-🔹 Tomato Plant Disease Detection System  
-Tech: Python, ML, Image Processing  
+------------------------------------------------------------  
 
-• Built image classification model for disease detection  
-• Applied preprocessing & supervised learning techniques  
-• Developed end-to-end ML pipeline  
-
----
-
-📈 GitHub Stats
-
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitghugare&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitghugare&layout=compact&theme=tokyonight)
-
----
-
-🎯 Career Focus
+🎯 CAREER FOCUS  
 
 Artificial Intelligence  
 Machine Learning  
@@ -82,12 +67,14 @@ Generative AI
 Data Engineering  
 Data Analytics  
 
----
+------------------------------------------------------------  
 
-📫 Let’s Connect
+📫 CONTACT  
 
-💼 LinkedIn: www.linkedin.com/in/sumit-ghugare-283b49247)  
-📧 ghugaresumit0@gmail.com  
-📱 7020818681  
+📧 Email: ghugaresumit0@gmail.com  
+📱 Phone: 7020818681  
+💼 LinkedIn: www.linkedin.com/in/sumit-ghugare-283b49247  
 
-⭐ If you like my work, feel free to star a repo or connect!
+------------------------------------------------------------  
+
+Building Intelligent Systems That Solve Real Problems 🚀
