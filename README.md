@@ -1,80 +1,140 @@
-Hi 👋, I'm Sumit Ghugare  
-AI Engineer | Generative AI | Machine Learning | RAG Systems  
+# 👋 Hi, I'm Sumit Ghugare
 
-------------------------------------------------------------  
+### 🚀 AI Engineer | Generative AI | Machine Learning | Deep Learning | RAG Systems
 
-🧠 ABOUT ME  
+Passionate about building intelligent AI systems that combine Generative AI, Machine Learning, Deep Learning, NLP, and automation to solve real-world problems.
 
-• 🎓 Final-year B.Tech student in Artificial Intelligence & Machine Learning  
-• 🤖 Currently working as an AI Intern building RAG-based intelligent systems  
-• 🐍 Strong foundation in Python, SQL, and ML pipelines  
-• 🔄 Experience integrating APIs and building automation workflows (n8n)  
-• 🚀 Passionate about Generative AI and real-world AI applications  
-• 🤝 Open to collaborating on AI / ML / GenAI projects  
+I am a final-year B.Tech student specializing in Artificial Intelligence & Machine Learning with hands-on experience developing AI-powered applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), semantic search, vector databases, deep learning models, and workflow automation systems.
 
-------------------------------------------------------------  
+Currently working as an AI Intern, I focus on building scalable AI applications, intelligent assistants, contextual retrieval systems, and AI-driven automation workflows using modern AI technologies and production-oriented architectures.
 
-🛠 TECH STACK  
+---
 
-💻 Programming:  
-Python, SQL  
+# 🧠 Core Expertise
 
-📊 Machine Learning:  
-Regression, Classification, Clustering, Model Evaluation  
+* Generative AI & LLM Applications
+* Retrieval-Augmented Generation (RAG)
+* Semantic Search & Vector Databases
+* Machine Learning & Predictive Modeling
+* Deep Learning & Neural Networks
+* NLP & Conversational AI
+* AI Workflow Automation
+* REST APIs & AI System Integration
 
-🤖 Generative AI:  
-RAG (Retrieval-Augmented Generation), Prompt Engineering, LLM Integration  
+---
 
-⚙ Frameworks & Tools:  
-LangChain, Flask, n8n  
+# ⚙️ Tech Stack
 
-📈 Data & Analytics:  
-Power BI, Excel  
+## 💻 Languages
 
-📚 Libraries:  
-NumPy, Pandas, Matplotlib, Seaborn  
+Python • SQL
 
-🔧 Version Control:  
-Git, GitHub  
+## 🤖 Generative AI
 
-------------------------------------------------------------  
+LangChain • RAG • Prompt Engineering • LLM Integration • Semantic Retrieval
 
-🚀 FEATURED PROJECTS  
+## 📊 Machine Learning
 
-🏥 AI-Powered Hospital Assistant  
-• Clinical note processing and heart disease risk prediction  
-• Integrated speech-to-text using Whisper  
-• LLM-based medical summarization  
-• Automated PDF report generation  
+Regression • Classification • Clustering • Feature Engineering • Model Evaluation
 
-🤖 RAG-Based Intelligent Application  
-• Built contextual question-answering system  
-• Integrated document retrieval with LLMs  
-• Improved response accuracy using knowledge grounding  
+## 🧠 Deep Learning
 
-🌿 Tomato Plant Disease Detection System  
-• Built ML-based image classification model  
-• Applied preprocessing and supervised learning  
-• Developed end-to-end prediction pipeline  
+ANN • CNN • RNN • LSTM
 
-------------------------------------------------------------  
+## 📚 AI/ML Libraries
 
-🎯 CAREER FOCUS  
+Pandas • NumPy • Scikit-learn • Matplotlib
 
-Artificial Intelligence  
-Machine Learning  
-Generative AI  
-Data Engineering  
-Data Analytics  
+## 🚀 Frameworks & Tools
 
-------------------------------------------------------------  
+FastAPI • Flask • Streamlit • n8n • Git • GitHub • REST APIs
 
-📫 CONTACT  
+## 🗄️ Vector Databases
 
-📧 Email: ghugaresumit0@gmail.com  
-📱 Phone: 7020818681  
-💼 LinkedIn: www.linkedin.com/in/sumit-ghugare-283b49247  
+ChromaDB • FAISS
 
-------------------------------------------------------------  
+## 📈 Analytics & Visualization
 
-Building Intelligent Systems That Solve Real Problems 🚀
+Power BI • Excel
+
+---
+
+# 🚀 Featured Projects
+
+## 🎥 AI Video Assistant
+
+Developed an AI-powered video understanding platform supporting:
+
+* Speech-to-text transcription
+* AI-generated summarization
+* Semantic video search
+* Context-aware conversational interaction
+
+### Technologies
+
+Python • Whisper • LangChain • ChromaDB • Streamlit • LLMs
+
+---
+
+## 📄 Invoice Processing Agent
+
+Built an intelligent invoice automation system for:
+
+* Structured invoice extraction
+* AI-driven document understanding
+* Workflow orchestration
+* Automated business process handling
+
+### Technologies
+
+Python • Gemini AI • FastAPI • n8n
+
+---
+
+## 🏥 AI Clinical Assistant System
+
+Created an AI-powered healthcare assistant capable of:
+
+* Real-time speech transcription
+* Clinical note generation
+* Heart disease prediction
+* AI-driven medical summarization
+* Automated PDF reporting
+
+### Technologies
+
+Python • Machine Learning • Whisper • Streamlit
+
+---
+
+# 🌱 Currently Exploring
+
+* AI Agents & Multi-Agent Systems
+* Advanced RAG Architectures
+* Vector Search Optimization
+* AI Deployment & MLOps
+* Scalable AI Pipelines
+
+---
+
+# 🎯 Career Interests
+
+Artificial Intelligence • Generative AI • Machine Learning Engineering • Deep Learning • Applied AI • AI Automation • Data Science
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: **[ghugaresumit0@gmail.com](mailto:ghugaresumit0@gmail.com)**
+
+💼 LinkedIn:
+[LinkedIn Profile](https://www.linkedin.com/in/sumit-ghugare-283b49247)
+
+🐙 GitHub:
+[GitHub Profile](https://github.com/YOUR_USERNAME)
+
+---
+
+# ⭐ Vision
+
+> Building production-ready AI systems that create real-world impact through intelligence, automation, and innovation.
