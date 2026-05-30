@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sumit Ghugare 👋</h1>
 
 <p align="center">
-  <b>AI Engineer &nbsp;|&nbsp; Generative AI &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; RAG Systems</b>
+  <b>🚀 AI Engineer &nbsp;|&nbsp; Generative AI &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; RAG Systems &nbsp;|&nbsp; Deep Learning</b>
 </p>
 
 <p align="center">
@@ -12,20 +12,22 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-I'm a final-year **B.Tech student in Artificial Intelligence & Machine Learning** with hands-on experience building production-ready AI applications. Currently working as an **AI Intern**, I focus on:
+I am a passionate **final-year B.Tech student in Artificial Intelligence & Machine Learning** with hands-on industry experience as an **AI Intern at AI India Innovations**. My work spans across Generative AI, RAG Systems, Machine Learning, Deep Learning, and AI Workflow Automation — with a strong focus on building production-ready, real-world AI applications.
 
-- 🤖 Building intelligent systems with **LLMs** and **Generative AI**
-- 🔍 Designing **RAG pipelines** and **semantic search** workflows
-- ⚙️ Automating business processes with **AI-powered agents**
-- 📊 Developing **predictive ML models** for real-world problems
+- 🤖 Specialized in building **LLM-powered intelligent systems** and **Generative AI applications**
+- 🔍 Experienced in designing **RAG pipelines**, **semantic search**, and **vector database workflows**
+- 🧬 Proficient in **Deep Learning** — ANN, CNN, RNN, LSTM architectures
+- ✍️ Skilled in **Prompt Engineering** — crafting effective prompts for improved LLM output quality
+- 📊 Strong background in **Machine Learning** — regression, classification, clustering, predictive modeling
+- ⚙️ Built **AI-powered automation workflows** using n8n, REST APIs, and LangChain
 
-> *Building production-ready AI systems that create real-world impact through intelligence, automation, and innovation.*
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sumit-ghugare-283b49247)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -52,6 +54,7 @@ I'm a final-year **B.Tech student in Artificial Intelligence & Machine Learning*
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
@@ -62,10 +65,10 @@ I'm a final-year **B.Tech student in Artificial Intelligence & Machine Learning*
 
 An AI-powered video understanding platform that supports end-to-end video intelligence — from transcription to conversational interaction.
 
-- 🎙️ **Speech-to-text** transcription using Whisper for YouTube & local video/audio
-- 📝 **AI-generated summarization** of video content
-- 🔍 **Semantic video search** using RAG + ChromaDB
-- 💬 **"Chat with Video"** — context-aware Q&A over video content
+- 🎙️ **Speech-to-text** transcription using Whisper for YouTube & local video/audio via yt-dlp and FFmpeg
+- 📝 **AI-generated summarization** of video content using LLMs
+- 🔍 **Semantic video search** using RAG + ChromaDB vector database
+- 💬 **"Chat with Video"** — context-aware question answering over video content
 
 ---
 
@@ -74,10 +77,10 @@ An AI-powered video understanding platform that supports end-to-end video intell
 
 An intelligent invoice automation system that streamlines document processing with AI agents and workflow orchestration.
 
-- 🧾 **Structured invoice extraction** from unstructured documents
-- 🤖 **AI-driven document understanding** with Gemini AI
+- 🧾 **Structured invoice extraction** from unstructured documents using Gemini AI
+- 🤖 **AI-driven document understanding** and intelligent data parsing
 - 🔄 **Automated workflow orchestration** via n8n pipelines
-- ✅ **Data validation** and business process automation
+- ✅ **Data validation** and end-to-end business process automation
 
 ---
 
@@ -86,19 +89,23 @@ An intelligent invoice automation system that streamlines document processing wi
 
 A healthcare AI assistant combining speech processing, predictive analytics, and automated reporting.
 
-- 🎙️ **Real-time speech transcription** for clinical note generation
+- 🎙️ **Real-time speech transcription** for clinical note generation using Whisper
 - ❤️ **Heart disease prediction** using ML pipelines on healthcare datasets
-- 📋 **NLP-driven medical summarization**
-- 📄 **Automated PDF report generation**
+- 📋 **NLP-driven medical summarization** for automated clinical documentation
+- 📄 **Automated PDF report generation** for patient records
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-**AI Intern** &nbsp;·&nbsp; *AI India Innovations, Pune* &nbsp;·&nbsp; `Aug 2025 – Mar 2026`
+| Role | Organization | Duration |
+|------|-------------|----------|
+| 🤖 AI Intern | AI India Innovations, Pune | Aug 2025 – Mar 2026 |
 
-- Developed AI and ML applications in Python for intelligent automation and workflow optimization
-- Built **RAG pipelines** using LangChain, vector databases, and LLM integration
+**Key Contributions at AI India Innovations:**
+
+- Developed AI and ML applications using Python for intelligent automation and workflow optimization
+- Built **RAG pipelines** using LangChain, vector databases, and LLM integration for contextual AI systems
 - Integrated **REST APIs** and automated workflows using n8n for AI-powered business applications
 
 ---
@@ -112,7 +119,7 @@ A healthcare AI assistant combining speech processing, predictive analytics, and
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Achievements
 
 - 🏅 **IBM SkillsBuild** – Introduction to Generative AI
 - 🏅 **Deep Learning Project Certification** – SmartBridge
@@ -129,9 +136,31 @@ A healthcare AI assistant combining speech processing, predictive analytics, and
 
 ---
 
-
+## 📊 GitHub Stats
 
 <p align="center">
-  <i>Open to opportunities in Generative AI, Machine Learning Engineering, and Applied AI roles.</i><br/>
-  <b>📧 ghugaresumit0@gmail.com</b>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+I am actively seeking full-time opportunities in:
+
+🎯 **AI Engineer** &nbsp;|&nbsp; 🤖 **Generative AI Engineer** &nbsp;|&nbsp; 🔬 **Machine Learning Engineer**
+
+If you are working on impactful AI projects or looking to collaborate, feel free to reach out!
+
+<p align="center">
+  <a href="mailto:ghugaresumit0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sumit-ghugare-283b49247"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  ✨ <i>"Building production-ready AI systems that create real-world impact through intelligence, automation, and innovation."</i> ✨
 </p>
